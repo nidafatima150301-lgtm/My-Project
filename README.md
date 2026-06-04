@@ -1,2 +1,2 @@
-This is my favourite code project 
+This is my favourite project code  
 # My-Project
