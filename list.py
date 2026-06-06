@@ -1,0 +1,18 @@
+list=[19,12,83,41,25,68]
+list.append(900)
+print(list)
+list.sort()
+print(list)
+list.sort(reverse=True)
+print(list)
+list.reverse()
+print(list)
+list.insert(2,"Hii")
+print(list)
+list.remove(12) 
+print(list) 
+list.pop(2)
+print(list)
+list=["nida","fatima","saba","yunus"]
+list.sort()
+print (list)
